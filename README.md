@@ -1,5 +1,5 @@
 # DCBlogPost
-Digital Crafts Blog Post 
+Digital Crafts Blog Post May 19, 2022
 Hello my name is Oscar, starting this new journey with Digital Crafts Coding Bootcamp. Learning about the Terminal on a Mac and its purpose.
 
 The CLI, command line interface, is what was used before we had the easy to use GUI. Different commands are used to execute functions.
